@@ -1,0 +1,1 @@
+# sn-focus-mode-max
